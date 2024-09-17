@@ -2,6 +2,8 @@
 
 BlobCapture is a simple and efficient screenshot capture tool designed to quickly capture any selected region of your screen and store the image in a format that can be easily used for database storage. The tool is lightweight and user-friendly, making it perfect for developers or anyone who needs a fast way to capture and manage screenshots for database applications.
 
+If you need to convert the base64 encoded screenshots back into image format, you can use [this website](https://base64.guru/converter/decode/image).
+
 ![BlobCapture Screenshot](./BlobCapture.png)
 
 ## Why I Built This Application
