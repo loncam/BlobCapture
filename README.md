@@ -40,6 +40,9 @@ This tool is designed for:
 - Enhance the GUI with more customization options like changing the screenshot format (PNG, JPEG, etc.).
 - Integrate cloud storage options to save screenshots directly to cloud databases.
 
+## Platform Compatibility
+**Note**: BlobCapture is currently only compatible with **Windows**. It does not support **MacOS** or other operating systems.
+
 ## Contributions
 Contributions are welcome! If you have any suggestions or improvements, feel free to open a pull request or submit an issue.
 
