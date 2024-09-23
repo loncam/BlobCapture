@@ -45,8 +45,8 @@ This tool is designed for:
 ## Platform Compatibility
 **Note**: BlobCapture is currently only compatible with **Windows**. It does not support **MacOS** or other operating systems.
 
-## Contributions
-Contributions are welcome! If you have any suggestions or improvements, feel free to open a pull request or submit an issue.
+## Developer
+Fevzi KILAS (aka niexche) https://github.com/fevzikilas
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
